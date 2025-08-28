@@ -97,6 +97,6 @@ Voto computado com sucesso!
 
 - **Nome:** 
 Lucas Gabriel
-
+- **GitHub:** [@luke-rocha3](https://github.com/luke-rocha3)
 
 Projeto desenvolvido no contexto do programa Bolsa Futuro Digital.
